@@ -1,0 +1,6 @@
+gradio>=5.0
+rembg>=2.0.50
+onnxruntime>=1.17
+opencv-python>=4.8
+pillow>=10.0
+numpy>=1.26
